@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#main{
+    border: 4px solid black;
+}
+.inside{
+    padding: 1rem;
+    margin: 1rem auto;
+    height: 100px;
+    max-width: 250px;
+    width: 100%;
+    border: 2px solid red;
+    display: flex;
+}

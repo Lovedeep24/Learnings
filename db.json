@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "name": "Task A",
+      "state": true
+    },
+    {
+      "id": "2",
+      "name": "Task B",
+      "state": false
+    },
+    {
+      "id": 3,
+      "name": "Task C",
+      "state": true
+    }
+  ]
+}
